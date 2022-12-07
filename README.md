@@ -2,9 +2,9 @@
 Implementation and Application of pix2pix paper
 
 Dependencies:
-Pytorch
-Numpy
-OpenCv
-Tkinter
-Matplotlib
+Pytorch,
+Numpy,
+OpenCv,
+Tkinter,
+Matplotlib,
 Mediapipe
